@@ -42,3 +42,4 @@ dependencies:
     - loralib==0.1.2
     - biopython==1.85
     - DockQ
+    - matplotlib
